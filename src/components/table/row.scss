@@ -1,0 +1,76 @@
+.row {
+  position: relative;
+  display: grid;
+  grid-template-columns: 50px 2fr 1fr 1fr;
+  grid-template-rows: repeat(1, minmax(50px, 1fr));
+  border-bottom: 1px solid hsl(0, 0%, 93%);
+  gap: 0.5rem;
+
+  @media screen and (max-width: 768px) {
+    padding: 0.5rem 0;
+    gap: 0rem;
+    grid-template-columns: 1fr;
+  }
+}
+
+.cell {
+  box-sizing: border-box;
+  align-self: center;
+  margin: 0.5rem 0;
+  @media screen and (max-width: 768px) {
+    justify-self: flex-start;
+  }
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+
+  @media screen and (max-width: 400px) {
+    padding-right: 4rem;
+  }
+}
+
+.name {
+  margin-bottom: 0.5rem;
+}
+
+.phrase {
+  font-size: 0.8rem;
+  color: hsl(0, 8%, 44%);
+  text-align: left;
+}
+
+.mobileHeader {
+  display: flex;
+  align-items: center;
+}
+
+.checkbox {
+  @media screen and (max-width: 768px) {
+    position: absolute;
+    right: 8px;
+    top: 16px;
+  }
+}
+
+.isHeader {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid hsl(0, 0%, 93%);
+
+  @media screen and (max-width: 768px) {
+    display: flex;
+    align-items: center;
+  }
+
+  .name {
+    margin-bottom: 0;
+  }
+
+  .cell {
+    @media screen and (max-width: 768px) {
+      display: none;
+    }
+  }
+}

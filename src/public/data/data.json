@@ -1,0 +1,68 @@
+[
+  {
+    "id": 0,
+    "favourite": false,
+    "name": "Gilbert Morton",
+    "age": 30,
+    "phone": "(369) 432-9206",
+    "image": "sheep",
+    "phrase": "Japman somam mes lizmasapa om zefopi ki wa ogju mofrajnir denba uc famoso opeipu woul.",
+    "video": "shoe"
+  },
+  {
+    "id": 1,
+    "favourite": true,
+    "name": "Jeffery Davidson",
+    "age": 57,
+    "phone": "(415) 670-6901",
+    "image": "pig",
+    "phrase": "Lejtefup boc hi ricge tela mo ragdi vutomeh kuhup veosubu pe ceso juhzustum ipagagcub fu."
+  },
+  {
+    "id": 2,
+    "favourite": false,
+    "name": "Lela Clark",
+    "age": 30,
+    "phone": "(635) 873-1879",
+    "image": "cat",
+    "phrase": "Bup dod elavor etudorkaw bapibune peijbur biot cuskoruc no liwuduk osi lazob zu rij buduhkaf.",
+    "video": "boy"
+  },
+  {
+    "id": 3,
+    "favourite": false,
+    "name": "Stella McGee",
+    "age": 21,
+    "phone": "(559) 294-5266",
+    "image": "owl",
+    "phrase": "Futones izzoz faohi kakicu cagujku picte jorof lis wej de tuj pop caj mivagaaju hilol."
+  },
+  {
+    "id": 4,
+    "favourite": true,
+    "name": "Myra Leonard",
+    "age": 29,
+    "phone": "(309) 825-7853",
+    "image": "lion",
+    "phrase": "Eloenu bac hodoga wi wumo vi puvu pi run zaj um vu idhishuw aguj fiffa."
+  },
+  {
+    "id": 5,
+    "favourite": false,
+    "name": "Robert Robbins",
+    "age": 24,
+    "phone": "(982) 642-8289",
+    "image": "lion",
+    "phrase": "Hifud wuvtugca alaedjo vaninre pubab vihviku bitodfe siwmalvo jilucu radfud lecoh fu ivetoljod ja inupowci.",
+    "video": "boy"
+  },
+  {
+    "id": 9,
+    "favourite": false,
+    "name": "Jim Steele",
+    "age": 33,
+    "phone": "(532) 993-4726",
+    "image": "penguin",
+    "phrase": "Sawidub sor re ziw bu migmemul odwa coc jeunaatu lejdad baofug imbagak vuhise udi uz."
+  }
+]
