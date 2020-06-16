@@ -76,4 +76,4 @@ const Row: React.FC<ITableComponentProps> = ({
   );
 };
 
-export default Row;
+export default React.memo(Row);
